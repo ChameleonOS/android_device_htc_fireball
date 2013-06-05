@@ -6,6 +6,12 @@
     "branch": "cm-10.1"
   },
   {
+    "project": "jose51197",
+    "repository": "android_vendor_htc_fireball",
+    "target_path": "vendor/htc",
+    "branch": "jellybean-mr1"
+  },
+  {
     "project": "CyanogenMod",
     "repository": "android_device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common",
